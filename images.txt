@@ -15,9 +15,9 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-nacos/nacos-server:v3.0.1
+#nacos/nacos-server:v3.0.1
 logstash:7.17.6
-ovpn-admin:local
-ovpn:local
-onlyoffice/documentserver:8.3.0
+#ovpn-admin:local
+#ovpn:local
+#onlyoffice/documentserver:8.3.0
 
